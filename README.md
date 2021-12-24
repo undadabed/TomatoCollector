@@ -1,5 +1,5 @@
 # TomatoCollector
-Simple multiplayer tomato collecting game
+Simple multiplayer tomato collecting game using Rio networking and pthreads.
 
 To play, launch the server first which is inside the server folder and is provided with its own Makefile. Launch with a port number.
 
